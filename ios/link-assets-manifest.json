@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Montserrat-Medium.ttf",
+      "sha1": "65a98832079c4d2c67f3acc4f4ce2de630fe6cb0"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "d25b35242deb1c6ff888b8162ca2aacc356d3899"
+    },
+    {
+      "path": "assets/fonts/Roboto-Medium.ttf",
+      "sha1": "f6783010d5def128c4a1539333324f75701d9bab"
+    },
+    {
+      "path": "assets/fonts/Roboto-Regular.ttf",
+      "sha1": "096c9245b6a192d1403a82848e104a65f578a8ec"
+    },
+    {
+      "path": "assets/fonts/RobotoSlab-Medium.ttf",
+      "sha1": "40e1e7540d5c7a44ce01cf5929c3ee8e31338f66"
+    },
+    {
+      "path": "assets/fonts/RobotoSlab-Regular.ttf",
+      "sha1": "8a57b8d9737a7ddc4a5fd55297acadcb9d0d6936"
+    }
+  ]
+}
